@@ -1,0 +1,34 @@
+{
+  "name": "qrcode.console",
+  "version": "1.0.0",
+  "description": "display qrcode in your node.js console",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node examples/test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshidong/qrcode.console.git"
+  },
+  "keywords": [
+    "qrcode",
+    "console",
+    "node"
+  ],
+  "engines": {
+    "node": ">=0.12.12"
+  },
+  "author": "Shidong Ke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keshidong/qrcode.console/issues"
+  },
+  "homepage": "https://github.com/keshidong/qrcode.console#readme"
+}
